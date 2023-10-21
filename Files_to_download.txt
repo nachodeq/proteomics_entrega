@@ -1,3 +1,3 @@
-https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000341a.msf
-https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000342a.msf
-https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000343a.msf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000341a.raw
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000342a.raw
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/06/PXD041346/L20202000343a.raw
