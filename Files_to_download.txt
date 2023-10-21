@@ -1,0 +1,6 @@
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/MbCD-treated_ApoE4_astrocytes_3.mgf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/MbCD-treated_ApoE4_astrocytes_2.mgf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/MbCD-treated_ApoE4_astrocytes_1.mgf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/ApoE4_astrocytes_3.mgf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/ApoE4_astrocytes_2.mgf
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2023/09/PXD045298/ApoE4_astrocytes_1.mgf
